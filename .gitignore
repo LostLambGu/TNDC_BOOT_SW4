@@ -1,0 +1,8 @@
+Debug/*
+.settings/*
+.vscode/*
+*/*.bak
+.tags
+GPATH
+GRTAGS
+GTAGS
